@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int f() {
         char arr[6];
         char a='F';
         for(int i=0; i<6; i++) {
